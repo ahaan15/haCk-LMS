@@ -1,4 +1,4 @@
-# haCk-LMS (BU-LMS h@cK3d)
+# haCk-LMS (BU-LMS)
 
 ### Note: This project is currently being worked upon.Don't rely on it for the time being. Please proceed with caution and HAVE FUN!
 
