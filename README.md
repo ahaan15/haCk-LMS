@@ -33,7 +33,7 @@
 #
 
 ## How It Works
-Well, what we've done here is basically scraped the HTML file of the [LMS](lms.bennett.edu.in) in the different phases of it's execution.
+Well, what we've done here is basically scraped the HTML file of the [LMS](http://lms.bennett.edu.in) in the different phases of it's execution.
 
 **The process it follows is similar to that of a human being, meaning the script is trying to immitate human steps of submitting an assignment on the LMS.**
 ( Imagine yourself doing the same )
